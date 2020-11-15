@@ -2,6 +2,7 @@
   <dictionary name="Ranie">
     <words>
       <w>acabei</w>
+      <w>acabou</w>
       <w>acertou</w>
       <w>adivinhar</w>
       <w>anos</w>
@@ -9,7 +10,9 @@
       <w>capaz</w>
       <w>chama</w>
       <w>computador</w>
+      <w>continuar</w>
       <w>digite</w>
+      <w>digitou</w>
       <w>divisivel</w>
       <w>entre</w>
       <w>exercicios</w>
@@ -36,6 +39,7 @@
       <w>nasceu</w>
       <w>nomevelho</w>
       <w>numero</w>
+      <w>numeros</w>
       <w>palavras</w>
       <w>palindromo</w>
       <w>palpite</w>
@@ -47,9 +51,14 @@
       <w>primeiro</w>
       <w>primo</w>
       <w>qual</w>
+      <w>quantidade</w>
+      <w>quer</w>
       <w>rasao</w>
+      <w>resposta</w>
+      <w>respota</w>
       <w>sequencia</w>
       <w>sexo</w>
+      <w>soma</w>
       <w>somaidade</w>
       <w>temos</w>
       <w>tentativas</w>
