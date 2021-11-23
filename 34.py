@@ -1,7 +1,7 @@
 # Aumentos múltiplos
 
 salario = float(input('qual o seu salario? '))
-if salario <= 1200:
+if salario <= 3500:
     novo = salario + (salario * 15 / 100)
 else:
     novo = salario + (salario * 10 / 100)

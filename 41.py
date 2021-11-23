@@ -9,13 +9,13 @@ idade = atual - nasc
 if idade <= 9:
     print(f'voce tem {idade} anos \nvoce e mirim')
 
-elif idade > 9 and idade <= 14:
+elif 9 < idade <= 14:
     print(f'voce tem {idade} anos \nvoce e infantil')
 
-elif idade > 14 and idade <= 19:
+elif 14 < idade <= 19:
     print(f'voce tem {idade} anos \nvoce e junior')
 
-elif idade > 19 and idade <= 25:
+elif 19 < idade <= 25:
     print(f'voce tem {idade} anos \nvoce e senior')
 
 else:

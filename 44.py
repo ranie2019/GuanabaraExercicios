@@ -23,5 +23,5 @@ elif opcao == 4:
     print(f'Sua Compra Sera Parcelada em {totalParcela} X De R$ {parcela :.2f} Com Juros')
 else:
     total = preco
-    print('Opcao Ivalida. Tente Novamente!')
+    print('Opcao Invalida. Tente Novamente!')
 print(f'Sua Compra de R${preco :.2f} Vai Custar R${total :.2f} no final')

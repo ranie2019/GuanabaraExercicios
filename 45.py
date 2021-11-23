@@ -3,7 +3,7 @@ from time import sleep
 print('GAME: Pedra Papel e Tesoura')
 itens = ('Pedra', 'Tesoura', 'Papel')
 computador = randint(0, 2)
-print('''Suas Opcoes:
+print('''Suas Opcode:
 [0] Pedra
 [1] Tesoura
 [2] Papel''')
@@ -18,7 +18,7 @@ print('*' * 12)
 print(f'Computador Jogou: {itens[computador]}')
 print(f'Voce Jogou: {itens[jogador]}')
 print('*' * 12)
-if computador == 0: # Computador jogou Pedra
+if computador == 0:  # Computador jogou Pedra
     if jogador == 0:
         print('Empate')
     elif jogador == 1:
@@ -27,7 +27,7 @@ if computador == 0: # Computador jogou Pedra
         print('Voce Ganhou')
     else:
         print('jogada invalida!')
-elif computador == 1: # Computador jogou Tesoura
+elif computador == 1:  # Computador jogou Tesoura
     if jogador == 0:
         print('Voce Ganhou')
     elif jogador == 1:
@@ -36,7 +36,7 @@ elif computador == 1: # Computador jogou Tesoura
         print('Computador Ganhou')
     else:
         print('jogada invalida!')
-elif computador == 2: # Computador jogou Papel
+elif computador == 2:  # Computador jogou Papel
     if jogador == 0:
         print('Computador Ganhou')
     elif jogador == 1:
