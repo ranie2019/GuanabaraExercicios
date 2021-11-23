@@ -8,4 +8,4 @@ a3 = str(input('3° aluno: '))
 a4 = str(input('4° aluno: '))
 lista = [a1, a2, a3, a4]
 shuffle(lista)
-print(f'a ardem apresentada sera \n{lista}')
+print(f'a ordem apresentada sera \n{lista}')

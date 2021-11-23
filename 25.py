@@ -2,4 +2,4 @@
 
 no = str(input('qual o seu nome completo? ')).strip()
 
-print('seu nome tem silva? {}'.format('silva'in no.lower()))
+print('seu nome tem silva? {}'.format('silva' in no.lower()))
