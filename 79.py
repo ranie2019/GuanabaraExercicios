@@ -9,5 +9,9 @@ while True:
     r = str(input('Quer Continuar? [S/N] '))
     if r in 'Nn':
         break
+    elif r != 's':
+        print('Valor Errado')
+        break
+
 print('=-' * 30)
 print(f'Voce Digitou os Valores {numeros}')
